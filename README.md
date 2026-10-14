@@ -10,7 +10,7 @@ DƯƠNG QUỐC BẢO .
 NGUYỄN THẾ NHẤT
  PHÂN CHIA VAI TRÒ 1 Admin (Owner / Administrator / Quản trị viên): NGUYỄN NỮ HỒNG NHUNG 2 Maintain (Maintainer / Người duy trì): PHAN TẤN KIỆT 3 Write (Contributor / Developer / Người ghi):NGUYỄN THẾ NHẤT 4 Triage (Manager / Người phân loại): DƯƠNG QUỐC BẢO 5 Read (Viewer / Người xem):NGUYỄN NHƯ HỒNG HẠNH
 
-## 🌟 Giới Thiệu
+##  Giới Thiệu
 Dự án **AURA FASHION** là hệ thống website thương mại điện tử chuyên ngành thời trang được xây dựng hoàn toàn bằng các công nghệ mã nguồn mở (Node.js, Express.js, SQLite, Vanilla CSS/JS, Nodemailer, JWT, bcryptjs).
 
 Hệ thống đáp ứng trọn vẹn và hoàn chỉnh tất cả các yêu cầu theo đề bài:
