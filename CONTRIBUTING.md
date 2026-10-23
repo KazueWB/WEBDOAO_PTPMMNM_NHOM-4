@@ -21,7 +21,7 @@ Cảm ơn bạn đã tham gia phát triển dự án AURA FASHION (Nhóm 4, môn
 | **3. Nguyễn Như Hồng Hạnh** | • `server/routes/posts.js`<br>• `public/js/blog.js`<br>• `public/css/blog.css`                                                                | • `tests/posts.test.js`                                | • `server.js` (dòng 33): mở `/api/posts`<br>• `public/index.html`: mở `blog.css` và `blog.js`                                                                                |
 | **4. Nguyễn Nữ Hồng Nhung** | • `server/routes/products.js`<br>• `public/js/shop.js`<br>• `public/css/shop.css`                                                             | • `tests/products.test.js`                             | • `server.js` (dòng 36): mở `/api/products`<br>• `public/index.html`: mở `shop.css` và `shop.js`                                                                             |
 
-> 💡 **Mẹo:** Toàn bộ code hoàn chỉnh và test đã được sao lưu tại nhánh `backup/full-project-with-tests`. Thành viên chỉ cần lấy đúng file của mình và tạo PR!
+>  **Mẹo:** Toàn bộ code hoàn chỉnh và test đã được sao lưu tại nhánh `backup/full-project-with-tests`. Thành viên chỉ cần lấy đúng file của mình và tạo PR
 
 
 ## Cài đặt môi trường
