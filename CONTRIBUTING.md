@@ -92,4 +92,4 @@ Tạo **Issue** mới trên GitHub, ghi rõ:
 
 ## Quy tắc ứng xử
 
-Tôn trọng, lịch sự và hỗ trợ lẫn nhau trong nhóm.
+Tôn trọng, lịch sự và hỗ trợ lẫn nhau trong nhóm eheh.
